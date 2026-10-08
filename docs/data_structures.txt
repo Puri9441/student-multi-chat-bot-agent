@@ -1,0 +1,27 @@
+COURSE NAME: Data Structures & Algorithms (CS201)
+CREDITS: 4
+INSTRUCTOR: Prof. P. Radhika
+
+UNIT 1: Linear Data Structures
+- Arrays, Dynamic Arrays, Sparse Matrices.
+- Stacks: Array implementation, Linked list implementation, Expression evaluation (Infix to Postfix).
+- Queues: Circular Queue, Priority Queue, Deque.
+
+UNIT 2: Linked Lists and Recursion
+- Singly Linked Lists, Doubly Linked Lists, Circular Linked Lists.
+- Operations: Insertion, Deletion, Reversal, Search.
+- Recursion: Tail recursion, Tower of Hanoi, Memory stack utilization.
+
+UNIT 3: Trees and Binary Search Trees
+- Binary Trees: Traversals (Inorder, Preorder, Postorder, Level-order).
+- Binary Search Trees (BST): Insertion, Deletion, Search, BST Properties.
+- Balanced Trees: AVL Trees (Rotations), Red-Black Trees, B-Trees.
+
+UNIT 4: Graphs and Sorting Algorithms
+- Graph Representation: Adjacency Matrix, Adjacency List.
+- Graph Traversals: Breadth-First Search (BFS), Depth-First Search (DFS).
+- Shortest Path: Dijkstra Algorithm, Prim's and Kruskal's Minimum Spanning Tree (MST).
+- Sorting Algorithms: Bubble Sort, Quick Sort, Merge Sort, Heap Sort. Time & Space Complexities.
+
+PREREQUISITES:
+- Basic Python or C Programming knowledge.

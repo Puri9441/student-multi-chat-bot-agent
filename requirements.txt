@@ -1,0 +1,6 @@
+langgraph
+langchain-ollama
+mysql-connector-python
+python-dotenv
+requests
+pydantic
